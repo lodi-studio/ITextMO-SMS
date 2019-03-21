@@ -1,0 +1,15 @@
+C:\Users\admin\AppData\Local\Temporary Projects\Twilio SMS\bin\Debug\Twilio SMS.exe.config
+D:\CSharp Experiment\Twilio SMS\Twilio SMS\bin\Debug\Twilio SMS.exe.config
+D:\CSharp Experiment\Twilio SMS\Twilio SMS\bin\Debug\Twilio SMS.exe
+D:\CSharp Experiment\Twilio SMS\Twilio SMS\bin\Debug\Twilio SMS.pdb
+D:\CSharp Experiment\Twilio SMS\Twilio SMS\bin\Debug\JWT.dll
+D:\CSharp Experiment\Twilio SMS\Twilio SMS\bin\Debug\Newtonsoft.Json.dll
+D:\CSharp Experiment\Twilio SMS\Twilio SMS\bin\Debug\Twilio.dll
+D:\CSharp Experiment\Twilio SMS\Twilio SMS\bin\Debug\Newtonsoft.Json.xml
+D:\CSharp Experiment\Twilio SMS\Twilio SMS\bin\Debug\Twilio.xml
+D:\CSharp Experiment\Twilio SMS\Twilio SMS\obj\Debug\Twilio SMS.csprojResolveAssemblyReference.cache
+D:\CSharp Experiment\Twilio SMS\Twilio SMS\obj\Debug\Twilio_SMS.Form1.resources
+D:\CSharp Experiment\Twilio SMS\Twilio SMS\obj\Debug\Twilio_SMS.Properties.Resources.resources
+D:\CSharp Experiment\Twilio SMS\Twilio SMS\obj\Debug\Twilio SMS.csproj.GenerateResource.Cache
+D:\CSharp Experiment\Twilio SMS\Twilio SMS\obj\Debug\Twilio SMS.exe
+D:\CSharp Experiment\Twilio SMS\Twilio SMS\obj\Debug\Twilio SMS.pdb

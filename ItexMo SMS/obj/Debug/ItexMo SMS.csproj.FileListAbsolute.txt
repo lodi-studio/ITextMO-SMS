@@ -1,0 +1,30 @@
+D:\CSharp Experiment\ItexMo SMS\ItexMo SMS\bin\Debug\Twilio SMS.exe.config
+D:\CSharp Experiment\ItexMo SMS\ItexMo SMS\obj\Debug\Twilio SMS.exe
+D:\CSharp Experiment\ItexMo SMS\ItexMo SMS\obj\Debug\Twilio SMS.pdb
+D:\CSharp Experiment\ItexMo SMS\ItexMo SMS\bin\Debug\Twilio SMS.exe
+D:\CSharp Experiment\ItexMo SMS\ItexMo SMS\bin\Debug\Twilio SMS.pdb
+D:\CSharp Experiment\ItexMo SMS\ItexMo SMS\bin\Debug\JWT.dll
+D:\CSharp Experiment\ItexMo SMS\ItexMo SMS\bin\Debug\Newtonsoft.Json.dll
+D:\CSharp Experiment\ItexMo SMS\ItexMo SMS\bin\Debug\Twilio.dll
+D:\CSharp Experiment\ItexMo SMS\ItexMo SMS\bin\Debug\Newtonsoft.Json.xml
+D:\CSharp Experiment\ItexMo SMS\ItexMo SMS\bin\Debug\Twilio.xml
+D:\CSharp Experiment\ItexMo SMS\ItexMo SMS\obj\Debug\ItexMo SMS.csprojResolveAssemblyReference.cache
+D:\CSharp Experiment\ItexMo SMS\ItexMo SMS\obj\Debug\Twilio_SMS.Form1.resources
+D:\CSharp Experiment\ItexMo SMS\ItexMo SMS\obj\Debug\Twilio_SMS.Properties.Resources.resources
+D:\CSharp Experiment\ItexMo SMS\ItexMo SMS\obj\Debug\ItexMo SMS.csproj.GenerateResource.Cache
+D:\CSharp Experiment\ItexMo SMS\ItexMo SMS\obj\Debug\Twilio SMS.exe.licenses
+D:\Experiment\CSharp\ItexMo SMS\ItexMo SMS\bin\Debug\Twilio SMS.exe.config
+D:\Experiment\CSharp\ItexMo SMS\ItexMo SMS\obj\Debug\Twilio SMS.exe
+D:\Experiment\CSharp\ItexMo SMS\ItexMo SMS\obj\Debug\Twilio SMS.pdb
+D:\Experiment\CSharp\ItexMo SMS\ItexMo SMS\bin\Debug\Twilio SMS.exe
+D:\Experiment\CSharp\ItexMo SMS\ItexMo SMS\bin\Debug\Twilio SMS.pdb
+D:\Experiment\CSharp\ItexMo SMS\ItexMo SMS\bin\Debug\JWT.dll
+D:\Experiment\CSharp\ItexMo SMS\ItexMo SMS\bin\Debug\Newtonsoft.Json.dll
+D:\Experiment\CSharp\ItexMo SMS\ItexMo SMS\bin\Debug\Twilio.dll
+D:\Experiment\CSharp\ItexMo SMS\ItexMo SMS\bin\Debug\Newtonsoft.Json.xml
+D:\Experiment\CSharp\ItexMo SMS\ItexMo SMS\bin\Debug\Twilio.xml
+D:\Experiment\CSharp\ItexMo SMS\ItexMo SMS\obj\Debug\ItexMo SMS.csprojResolveAssemblyReference.cache
+D:\Experiment\CSharp\ItexMo SMS\ItexMo SMS\obj\Debug\Twilio_SMS.Form1.resources
+D:\Experiment\CSharp\ItexMo SMS\ItexMo SMS\obj\Debug\Twilio_SMS.Properties.Resources.resources
+D:\Experiment\CSharp\ItexMo SMS\ItexMo SMS\obj\Debug\ItexMo SMS.csproj.GenerateResource.Cache
+D:\Experiment\CSharp\ItexMo SMS\ItexMo SMS\obj\Debug\Twilio SMS.exe.licenses
